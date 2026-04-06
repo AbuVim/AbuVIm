@@ -11,7 +11,7 @@ I'm tryna learn to code it looks cool😭🐣
 
 ### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbuVim&show_icons=true&theme=gruvbox)-->
+![Stats](https://github-readme-stats.vercel.app/api?username=AbuVim&show_icons=true&theme=gruvbox)
 
 
 

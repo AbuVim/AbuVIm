@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AbuVim/AbuVim/blob/24c5875fb1a4a39bc1802960148012459a4b52f8/khatt1.png" alt="image alt" width="300"/>
+  <img src="https://github.com/AbuVim/AbuVim/blob/088a0341f713539c8af3304a2b8b53718ca42905/khatt2.png" alt="image alt" width="300"/>
 </p>
 
 

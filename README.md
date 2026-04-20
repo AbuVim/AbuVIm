@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AbuVim/AbuVim/blob/5a1adeef668a8374f344550be3e7d1f07edadb18/bilanaaqah2.png" alt="image alt" width="300"/>
+  <img src="https://github.com/AbuVim/AbuVim/blob/288d711e1fa9d4aa3c6626ac7a3bfb603c58a2d1/AyahBanner.png" alt="image alt" width="300"/>
 </p>
 
 
